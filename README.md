@@ -1,2 +1,2 @@
 # Ultrasonic_Imager
-Controlling a servo motor and acoustic transducers built into a home-made ultrasonic imager. RaspberryPi used.
+Code used on a RaspberryPi to control homemade ultrasonic imager made from a servo motor and 6 acoustic transducers
